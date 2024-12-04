@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jack755051/colorChooser_frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jack755051/colorChooser_backend
